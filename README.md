@@ -41,9 +41,12 @@ I'm passionate about using technology to solve real-world problems, and I'm alwa
 # My stats so far
 
 
-[![](https://raw.githubusercontent.com/mariamqiix/mariamqiix/master/profile-summary-card-output/jolly/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/mariamqiix/mariamqiix/master/profile-summary-card-output/jolly/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mariamqiix/mariamqiix/master/profile-summary-card-output/jolly/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/mariamqiix/mariamqiix/master/profile-summary-card-output/jolly/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mariamqiix/mariamqiix/master/profile-summary-card-output/jolly/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/mariamqiix/mariamqiix/master/profile-summary-card-output/shades_of_purple/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/mariamqiix/mariamqiix/master/profile-summary-card-output/shades_of_purple/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mariamqiix/mariamqiix/master/profile-summary-card-output/shades_of_purple/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/mariamqiix/mariamqiix/master/profile-summary-card-output/shades_of_purple/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mariamqiix/mariamqiix/master/profile-summary-card-output/shades_of_purple/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+
 
 
 ## 📚 Repositories
