@@ -1,4 +1,4 @@
-# mariamqiix
+# mariam abbas
 
 Hello! My name is Mariam Abbas, and I'm a full-stack developer in training at [Reboot01](https://learn.reboot01.com). I'm from Bahrain 🇧🇭 and passionate about learning new technologies and solving complex problems.
 
