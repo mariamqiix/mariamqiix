@@ -41,9 +41,11 @@ I'm passionate about using technology to solve real-world problems, and I'm alwa
 # My stats so far
 
 
-[![](https://raw.githubusercontent.com/mariamqiix/mariamqiix/master/profile-summary-card-output/shades_of_purple/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/mariamqiix/mariamqiix/master/profile-summary-card-output/shades_of_purple/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mariamqiix/mariamqiix/master/profile-summary-card-output/shades_of_purple/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/mariamqiix/mariamqiix/master/profile-summary-card-output/shades_of_purple/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mariamqiix/mariamqiix/master/profile-summary-card-output/shades_of_purple/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://raw.githubusercontent.com/mariamqiix/mariamqiix/master/profile-summary-card-output/aura_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/mariamqiix/mariamqiix/master/profile-summary-card-output/aura_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mariamqiix/mariamqiix/master/profile-summary-card-output/aura_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/mariamqiix/mariamqiix/master/profile-summary-card-output/aura_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mariamqiix/mariamqiix/master/profile-summary-card-output/aura_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 
 
@@ -52,4 +54,4 @@ I'm passionate about using technology to solve real-world problems, and I'm alwa
 ## 📚 Repositories
 
 Check out my [GitHub Repositories](https://github.com/mariamqiix?tab=repositories) to see my latest projects and collaborations.
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
+
